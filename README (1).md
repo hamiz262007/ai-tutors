@@ -38,7 +38,11 @@ The form simulates a real-world scenario for an AI tutoring service, allowing st
 - ARIA attributes for better screen reader support
 
 ## Screenshots
-*(Add screenshots of desktop, tablet, and mobile views here)*
+## 🖥️ Desktop View
+![Desktop View](assets/desktop-view.png)
+
+## 📱 Mobile View
+![Mobile View](assets/mobile-view.png)
 
 ## Validator Proofs
 ### HTML Validation
