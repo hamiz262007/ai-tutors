@@ -39,10 +39,10 @@ The form simulates a real-world scenario for an AI tutoring service, allowing st
 
 ## Screenshots
 ## 🖥️ Desktop View
-![Desktop View](assets/desktop-view.png)
+![Desktop View](assets/pc-web.png)
 
 ## 📱 Mobile View
-![Mobile View](assets/mobile-view.png)
+![Mobile View](assets/mobile-web.png)
 
 ## Validator Proofs
 ### HTML Validation
