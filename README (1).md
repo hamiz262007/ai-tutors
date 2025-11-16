@@ -42,7 +42,7 @@ The form simulates a real-world scenario for an AI tutoring service, allowing st
 ![Desktop View](assets/pc-web.png)
 
 ## 📱 Mobile View
-![Mobile View](assets/mobile-web.png)
+![Mobile View](assets/mobile-web.jpg)
 
 ## Validator Proofs
 ### HTML Validation
