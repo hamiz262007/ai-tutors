@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tutors - O Level Helper</title>
+
+    <!-- linking the CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- HEADER SECTION -->
+   <header class="top-header">
+    <img src="assets/ai-logo.svg" alt="AI Tutors Logo" class="logo">
+    <h1>AI Tutors</h1>
+    <p>A simple AI bot that helps O Level students study better.</p>
+</header>
+
+    <!-- MAIN PAGE LAYOUT (GRID) -->
+    <main class="page-grid">
+
+        <!-- ABOUT SECTION -->
+        <section class="about-box">
+            <div class="box-header">About AI Tutors</div>
+
+            <h2>About AI Tutors</h2>
+            <p>
+                AI Tutors is a tool that explains O Level subjects in a simple way.
+                It can help with notes, examples, and basic practice.
+            </p>
+        </section>
+
+        <!-- FEATURES SECTION -->
+        <section class="features-box">
+            <div class="box-header">Features</div>
+
+            <h2>Main Features</h2>
+
+            <div class="features-flex">
+                <div class="f-card">
+                    <h3>Easy Explanations</h3>
+                    <p>Designed for O Level difficulty.</p>
+                </div>
+
+                <div class="f-card">
+                    <h3>Quick Answers</h3>
+                    <p>Ask anything and get a quick response.</p>
+                </div>
+
+                <div class="f-card">
+                    <h3>Practice Help</h3>
+                    <p>Topic-based study support.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ SECTION -->
+        <section class="faq-box">
+            <div class="box-header">FAQ</div>
+
+            <h2>FAQ</h2>
+
+            <div class="faq-item">
+                <input type="checkbox" id="faq1">
+                <label for="faq1" class="faq-label">Is this free?</label>
+                <p class="faq-content">
+                    Yes, this is free for students.
+                </p>
+            </div>
+
+            <div class="faq-item">
+                <input type="checkbox" id="faq2">
+                <label for="faq2" class="faq-label">Does it cover every subject?</label>
+                <p class="faq-content">
+                    It supports Physics, Chemistry, Math, CS and more.
+                </p>
+            </div>
+        </section>
+
+        <!-- FORM SECTION -->
+        <section class="form-box">
+            <div class="box-header">Join AI Tutors</div>
+
+            <h2>Join AI Tutors</h2>
+
+            <form>
+
+                <label>Name</label>
+                <input type="text" required>
+
+                <label>Email</label>
+                <input type="email" required>
+
+                <label>Subjects you want help with:</label>
+                <div class="check-area">
+                    <label><input type="checkbox"> Math</label>
+                    <label><input type="checkbox"> Physics</label>
+                    <label><input type="checkbox"> Chemistry</label>
+                </div>
+
+                <label>Choose a Study Plan:</label>
+                <div class="radio-area">
+                    <label><input type="radio" name="plan"> Basic</label>
+                    <label><input type="radio" name="plan"> Premium</label>
+                </div>
+
+                <label>Where did you hear about it?</label>
+                <select>
+                    <option>Friend</option>
+                    <option>School</option>
+                    <option>Social Media</option>
+                </select>
+
+                <label>Your Study Goals</label>
+                <textarea rows="3"></textarea>
+
+                <button type="submit">Submit</button>
+
+            </form>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>© 2025 AI Tutors</p>
+    </footer>
+
+</body>
+</html>
