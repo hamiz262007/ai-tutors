@@ -42,9 +42,9 @@ The form simulates a real-world scenario for an AI tutoring service, allowing st
 
 ## Validator Proofs
 ### HTML Validation
-![HTML Validator](assets/html-validation.png)
+![HTML Validator](assets/css-validation.png.png)
 ### CSS Validation
-![CSS Validator](assets/css-validation.png)
+![CSS Validator](assets/css-validation.png.png)
 ##  Deployment Instructions
 1. Push all files to GitHub repository.
 2. Enable **GitHub Pages** in repository settings.
