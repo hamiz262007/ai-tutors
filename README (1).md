@@ -41,13 +41,15 @@ The form simulates a real-world scenario for an AI tutoring service, allowing st
 *(Add screenshots of desktop, tablet, and mobile views here)*
 
 ## Validator Proofs
-*(Attach HTML and CSS validation screenshots here)*
-
+### HTML Validation
+![HTML Validator](assets/html-validation.png)
+### CSS Validation
+![CSS Validator](assets/css-validation.png)
 ##  Deployment Instructions
 1. Push all files to GitHub repository.
 2. Enable **GitHub Pages** in repository settings.
 3. Share the live link.
 
 ---
-**Author:** [Your Name]  
+**Author:** [Muhammad Hamiz Anwar]  
 **Date:** November 2025
